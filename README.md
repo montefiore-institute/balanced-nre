@@ -34,4 +34,4 @@ See [CITATION.cff](CITATION.cff)
 
 ## License
 
-Described the `LICENSE` file.
+Described the [LICENSE](LICENSE) file.
