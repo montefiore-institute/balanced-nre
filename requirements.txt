@@ -1,0 +1,10 @@
+matplotlib
+torch
+papermill
+torchvision
+tqdm
+jupyter
+ipykernel
+torchaudio
+git+https://github.com/montefiore-ai/hypothesis.git@0.4.0
+git+https://github.com/JoeriHermans/awflow
