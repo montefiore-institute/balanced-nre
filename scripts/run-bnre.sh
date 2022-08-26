@@ -1,7 +1,7 @@
 #!/bin/bash
 # Assuming the appropriate environment is loaded
 
-cd workflows/cnre
+cd workflows/bnre
 rm -rf .workflows
 
 echo ' > Verifying Gravitational Waves pipeline.'
