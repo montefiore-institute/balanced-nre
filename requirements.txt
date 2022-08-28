@@ -6,5 +6,5 @@ tqdm
 jupyter
 ipykernel
 torchaudio
-git+https://github.com/montefiore-ai/hypothesis.git@0.4.0
-git+https://github.com/JoeriHermans/awflow
+git+https://github.com/montefiore-ai/hypothesis.git@c57ea562bb0bd14d22da9ff67d36a95695da148f
+git+https://github.com/JoeriHermans/awflow@1fcf255debfbc18d39a6b2baa387bbc85050209d
