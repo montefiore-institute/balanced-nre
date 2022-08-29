@@ -21,7 +21,7 @@ See [demo.ipynb](demo.ipynb) for a demo of BNRE. Before executing the notebook, 
 pip install git+https://github.com/francois-rozet/lampe
 ```
 ## Reproducing the experiments
-First install all the dependencies from the [requirements.txt](requirements.txt) file. The pipelines performing all the experiments can then be executing by running the following commands
+First, install all the dependencies from the [requirements.txt](requirements.txt) file. The pipelines performing all the experiments can then be executed by running the following commands
 ```
 bash scripts/run-bnre.sh
 bash scripts/run-nre.sh
