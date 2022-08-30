@@ -12,6 +12,8 @@ approximate ratio estimators. In Hal Daumé III and Aarti Singh, editors, Procee
 37th International Conference on Machine Learning, volume 119 of Proceedings of Machine
 Learning Research, pages 4239–4248. PMLR, 13–18 Jul 2020.
 
+A PDF render of the manuscript is available on [`ArXiV`](https://arxiv.org/abs/2208.13624).
+
 <img src=".github/coverage.png">
 
 ## Demo
