@@ -18,10 +18,11 @@ A PDF render of the manuscript is available on [`ArXiV`](https://arxiv.org/abs/2
 
 ## Demo
 
-See [demo.ipynb](demo.ipynb) for a demo of BNRE. Before executing the notebook, please install the latest version of lampe by running the following command.
+See [demo.ipynb](demo.ipynb) for a demo of BNRE. It is based on the simulation-based inference package [lampe](https://github.com/francois-rozet/lampe), which can be installed with
 ```
-pip install git+https://github.com/francois-rozet/lampe
+pip install lampe>=0.5.2
 ```
+
 ## Reproducing the experiments
 First, install all the dependencies from the [requirements.txt](requirements.txt) file. The pipelines performing all the experiments can then be executed by running the following commands
 ```
