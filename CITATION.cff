@@ -1,10 +1,22 @@
-@misc{https://doi.org/10.48550/arxiv.2208.13624,
-  doi = {10.48550/ARXIV.2208.13624},
-  url = {https://arxiv.org/abs/2208.13624},
-  author = {Delaunoy, Arnaud and Hermans, Joeri and Rozet, François and Wehenkel, Antoine and Louppe, Gilles},
-  keywords = {Machine Learning (stat.ML), Machine Learning (cs.LG), Methodology (stat.ME), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Towards Reliable Simulation-Based Inference with Balanced Neural Ratio Estimation},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Delaunoy"
+  given-names: "Arnaud"
+- family-names: "Hermans"
+  given-names: "Joeri"
+- family-names: "Rozet"
+  given-names: "François"
+- family-names: "Wehenkel"
+  given-names: "Antoine"
+- family-names: "Gilles"
+  given-names: "Louppe"
+title: "Towards Reliable Simulation-Based Inference with Balanced Neural Ratio Estimation"
+keywords:
+- "Machine Learning (stat.ML)"
+- "Machine Learning (cs.LG)"
+- "Methodology (stat.ME)"
+- "FOS: Computer and information sciences"
+doi: "10.48550/ARXIV.2208.13624"
+date-released: 2022-08-30
+url: "https://arxiv.org/abs/2208.13624"
