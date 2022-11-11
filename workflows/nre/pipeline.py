@@ -192,7 +192,8 @@ def merge_blocks(directory, dependencies):
 
 
 def train_and_evaluate(budget, batch_size, dependencies=None):
-    dependencies = []
+    if dependencies is None:
+        dependencies = []
     root = problem + '/output/estimator/' + str(budget) + '/' + str(batch_size) + '/' + str(learning_rate)
     os.makedirs(root, exist_ok=True)
 
