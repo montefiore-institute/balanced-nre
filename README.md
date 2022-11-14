@@ -20,7 +20,7 @@ A PDF render of the manuscript is available on [`ArXiV`](https://arxiv.org/abs/2
 
 See [demo.ipynb](demo.ipynb) for a demo of BNRE. It is based on the simulation-based inference package [lampe](https://github.com/francois-rozet/lampe), which can be installed with
 ```
-pip install lampe>=0.5.2
+pip install lampe==0.5.2
 ```
 
 ## Reproducing the experiments
